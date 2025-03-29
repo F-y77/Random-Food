@@ -1,7 +1,7 @@
 name = "随机食物"
 description = "烹饪锅煮出来的食谱食物会变成随机的食谱食物，每次都是惊喜！哈哈哈，给大厨更多惊喜。"
 author = "Va6gn（凌）"
-version = "1.0.0"
+version = "1.0.1"
 
 -- 兼容性
 api_version = 10
